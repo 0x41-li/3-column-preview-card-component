@@ -10,6 +10,10 @@ img {
   max-width: 100%;
 }
 
+button, a {
+  cursor: pointer;
+}
+
 body {
   display: flex;
   flex-flow: column;
@@ -76,6 +80,14 @@ main {
   height: 50px;
   border-radius: 40px;
   font-family: v.$ff-primary;
+  transition: all 0.4s;
+  margin-top: 40px;
+}
+
+.box__btn:hover {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
 }
 
 .fbox__btn {

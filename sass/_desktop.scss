@@ -1,12 +1,16 @@
-
 @media screen and (min-width: 1024px) {
   main {
     flex-flow: row nowrap;
     align-items: stretch;
+    width: 80%;
   }
 
   .box {
     flex: 1;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    gap: 0px;
   }
 
   .box__h2 {
@@ -14,33 +18,22 @@
   }
 
   .box__para {
-    font-size: 2vw;
-    height: 100px;
+    font-size: 1.4vw;
   }
 }
-
-
 
 @media screen and (min-width: 1440px) {
   main {
-    width: 60%;
-  }
-
-  .box {
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: flex-start;
+    width: 70%;
   }
 
   .box__h2 {
-    font-size: 2vw;
+    font-size: 3vw;
   }
 
   .box__para {
-    font-size: 1vw;
-  }
-
-  .box__btn {
+    margin-bottom: 40px;
+    font-size: 1.15vw;
+    line-height: 1.7vw;
   }
 }
-
