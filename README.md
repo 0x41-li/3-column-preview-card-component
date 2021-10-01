@@ -40,7 +40,7 @@ Users should be able to:
 - Mobile-first workflow
 ### What I learned
 
-I enhanced my knowledge on flexbox, and responsive design, plus transitions.
+I enhanced my knowledge on flexbox, and responsive design, plus transitions, finally Sass.
 
 ## Author
 
