@@ -1,21 +1,9 @@
-# Column Preview Card Component
-
-A 3 Column Preview Card Component.
-
-The Live Site: https://0x41-li.github.io/3-column-preview-card-component/.
-<!-- # Order Summary Component
-
-An Order Summary Component From frontend Mentor Challenges.
-
-Live Site: https://0x41-li.github.io/order-summary-component/. -->
-
 # Frontend Mentor - Four card feature section solution
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Column Preview Card Component](#column-preview-card-component)
 - [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
@@ -26,8 +14,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://0x41-li.github.io/order-summary-component/](https://0x41-li.github.io/order-summary-component/).
+- Live Site URL: [https://0x41-li.github.io/3-column-preview-card-component/](https://0x41-li.github.io/3-column-preview-card-component/).
 
 ## My process
 
